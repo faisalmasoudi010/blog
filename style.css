@@ -1,0 +1,209 @@
+
+.sec{
+    padding: 0px 160px;
+}
+
+.part1 img{
+    width: 500px;
+    height: 400px;
+}
+.part1{
+    width: 500px;
+    height: 650px;
+    background-color: white;
+}
+ a{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+span{
+    color: gray;
+    padding: 10px;
+ 
+    
+ 
+    
+}
+.part1 h2{
+    color: rgb(3, 3, 42);
+}
+
+
+/* end of prat1 */
+
+
+.p1{
+    display:flex ;
+    margin-top: 30px;
+    gap: 10px;
+}
+.big{
+    display: flex;
+    gap: 40px;
+}
+.p1 img{
+    width: 200px;
+
+}
+.p2{
+    padding: 20px 0;
+
+}
+.p2 h3{
+    margin-top: 7px;
+}
+.part2{
+    margin-top: -20px;
+
+
+}
+
+
+/* end of section */
+
+
+.sec2{
+    background-color: rgb(245, 235, 236);
+    
+    padding: 30px 160px;
+
+}
+
+.editor{
+    background-color: white;
+}
+    
+
+.editor img{
+    width: 300px;
+}
+.editor-cards{
+    width: 300px;
+    background-color: white;
+     display: flex;
+    gap: 20px;
+    margin-top:30px ;
+    
+   
+    
+    
+
+}
+.editor-cards p a {
+    
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: -20px;
+    margin-bottom: -10px;
+    
+}
+.editor-cards p{
+    margin-top: -15px;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+  
+}
+.pack{
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+.editor span{
+    position: relative;
+    top: -10px;
+}
+
+
+/* end of section 2 */
+
+.sec3{
+  
+    padding:  50px 160px;
+}
+
+.sec3-head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec3-head h3{
+    font-size: 30px;
+}
+
+.sec3-head button{
+     width: 100px;
+    height: 54px;
+    border-radius:30px ;
+    font-size: 13px;
+    background-color: white;
+    border-color: rgba(128, 128, 128, 0.301);
+   
+
+
+}
+.sec3-card{
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    width: 50%;
+}
+.sec3-content {
+    margin-top: 20px;
+}
+.sec3-big{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.sec3-image img{
+    width: 300px;
+    height: 180px;
+}
+/* end of section 3 */
+.sec4{
+    background-color: rgb(6, 6, 42);
+    padding: 50px 160px;
+}
+.sec4-cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.sec4-card img{
+     width: 280px;
+}
+
+.sec4-card{
+   
+    width: 280px;
+    background-color:rgb(61, 61, 91) ;
+}
+.sec4-card a{
+    color: yellow;
+    padding: 10px;
+}
+.sec4-card p{
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+
+}
+.sec4 .sec3-head h3{
+    color: white;
+}
+.sec4 span{
+    position: relative;
+    top: -20px;
+}
+.sec4 .sec3-head button{
+    background: none;
+    
+    color: white;
+    border: .1px solid white;
+}
+
